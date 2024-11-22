@@ -1,0 +1,17 @@
+export const Colors = {
+  HelmutGreen: '#264141',
+  Powder: '#FBFCFA',
+  ArgileDark: '#1B3434',
+  Alien: '#1A2228',
+  SymionBlue: '#092F3B',
+  Gray: '#808080',
+  Pewter: '#696880',
+  Arsenic: '#3B444B',
+  BunrtUmber: '#8A3324',
+  CharlestoneGreen: '#232B2B',
+  Fog: '#655967',
+  MistyGray: '#BCC2C2',
+  Cloud: '#C5C6D0',
+  Anchor: ' #41424C',
+  OuterSpace: '#414A4C',
+};
